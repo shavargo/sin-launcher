@@ -1,0 +1,17 @@
+/target/
+**/*.rs.bk
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+launcher.toml
+cache/
+
+*.pdb
+*.ilk
+*.exp
